@@ -2,7 +2,9 @@
 
 # Overview
 
-Save For Later extension for Magento 2 has been developed by the product team at RLTSquare. An optimized shopping experience is the key to increase the conversion rates of your store. This extension enables you to display a “Save For Later” option in the Checkout Cart page. When you add the product to the Save For Later, it gets removed from the shopping cart.  This extension allows your customers to save the products they are interested in, so they can place the order later. The items are saved in the “Saved For Later” tab in the Customer Dashboard left side panel which makes it easier to find them again. With the retrieve to cart option, it takes the items directly to the Checkout page. The customers can easily view or remove the products. The customers can avail this feature only after signing up on your store. The admin can also disable the Save For Later option from the store configuration. 
+Save For Later extension for Magento 2 has been developed by the product team at RLTSquare. An optimized shopping experience is the key to increase the conversion rates of your store. This extension enables you to display a “Save For Later” option in the Checkout Cart page. When you add the product to the Save For Later, it gets removed from the shopping cart. This extension allows your customers to save the products they are interested in, so they can place the order later. 
+The items are saved in the “Saved For Later” tab in the Customer Dashboard left side panel which makes it easier to find them again. With the retrieve to cart option, it takes the items directly to the Checkout page. The customers can easily view or remove the products. The customers can avail this feature only after signing up on your store. This extension allows your registered (logged in) users to view the Save For Later products. The admin can also disable the Save For Later option from the store configuration. 
+Hence, it makes the whole shopping experience more optimized and customer-friendly.
 
 Here are some of the salient features for the extension:
 
@@ -13,7 +15,8 @@ Here are some of the salient features for the extension:
 4. Enable/disable the “Save For Later” key for products.
 5. When disabled the grid and the Save For Later tab in the customer dashboard vanishes.
 6. Visible on Checkout Cart page and customer dashboard.
-7. Increase the leads because it encourages the customers to sign up.
+7. Save For Later is only for registered (logged in) users.
+8. Increase the leads because it encourages the customers to sign up on your store.
 ```
 
 ## Installation
